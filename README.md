@@ -1,5 +1,6 @@
 # Emotion-Based Music Recommendation System - SERVER
 
+The client repo is available at [eaai23-client-dup](https://github.com/anhphuongdo34/eaai23-client-dup/)
 Back-end code for the website [foam-music.vercel.app/](https://foam-music.vercel.app/)
 
 ## Contribution
