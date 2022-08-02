@@ -53,7 +53,7 @@
 
 - Deploy on Cloud Run
   - Go to Cloud Run
-  - Click on **<your-instance-name>** instance
+  - Click on **\<your-instance-name\>** instance
   - Click on **EDIT & DEPLOY NEW VERSION**
   - Select a new Container image URL
   - Deploy
